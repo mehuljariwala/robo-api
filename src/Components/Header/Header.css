@@ -1,0 +1,12 @@
+:root {
+  --header-color: #a9a9bb;
+  --header-link-color: white;
+}
+header {
+  background: var(--header-color);
+}
+.header-link {
+  font-size: 1.5rem;
+  color: var(--header-link-color);
+  margin-right: 1rem;
+}
